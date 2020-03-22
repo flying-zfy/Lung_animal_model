@@ -1,0 +1,22 @@
+
+#虚拟机环境：
+
+scikit-learn == '0.19.1'
+
+numpy == '1.14.3'
+
+keras == '2.2.0'
+
+tensorflow == '1.7.0'
+
+cuda == '9.0.176'
+
+cudnn == '7.0.5'
+
+python == '3.6.6'
+
+scipy == '1.1.0'
+
+matplotlib == '2.2.2'
+
+
