@@ -12,7 +12,8 @@
 
 &emsp;&emsp;项目整体流程图如下所示：
 
-![image](http://192.168.3.126/Flying_zfy/Lung_Animal_model/raw/master/image/Project_flow_chart.PNG)
+![整体流程图](https://github.com/flying-zfy/Lung_animal_model/blob/master/image/Project_flow_chart.PNG)
+
 # 2、运行环境说明
  &emsp;&emsp;<br>虚拟机环境：
  &emsp;&emsp;<br>Cuda == 9.0.176
