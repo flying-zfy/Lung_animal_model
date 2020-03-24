@@ -101,32 +101,32 @@
 
 #### 二分类和五分类做染色标准化的参考图和染色标准化的结果
 
-![image](http://192.168.3.126/Flying_zfy/Lung_Animal_model/raw/master/image/color_normalization.PNG)
+![image](https://github.com/flying-zfy/Lung_animal_model/blob/master/image/color_normalization.PNG)
 
 #### 二分类模型的参数设置
 
-![image](http://192.168.3.126/Flying_zfy/Lung_Animal_model/raw/master/image/2_class_dataset.PNG)
+![image](https://github.com/flying-zfy/Lung_animal_model/blob/master/image/2_class_dataset.PNG)
 
 #### 二分类模型的训练精度曲线和混淆矩阵
 
-![image](http://192.168.3.126/Flying_zfy/Lung_Animal_model/raw/master/image/2_class_train_result.PNG)
+![image](https://github.com/flying-zfy/Lung_animal_model/blob/master/image/2_class_train_result.PNG)
 
 #### 二分类模型的预测结果
 
-![image](http://192.168.3.126/Flying_zfy/Lung_Animal_model/raw/master/image/2_class_predict_result.PNG)
+![image](https://github.com/flying-zfy/Lung_animal_model/blob/master/image/2_class_predict_result.PNG)
 
 #### 五分类模型的参数设置(未使用imagenet_processing()预处理)
 
-![image](http://192.168.3.126/Flying_zfy/Lung_Animal_model/raw/master/image/5_class_train_data1.PNG)
+![image](https://github.com/flying-zfy/Lung_animal_model/blob/master/image/5_class_train_data1.PNG)
 
 #### 五分类模型的训练精度曲线和混淆矩阵(未使用imagenet_processing()预处理)
 
-![image](http://192.168.3.126/Flying_zfy/Lung_Animal_model/raw/master/image/5_class_predict_result_noimgnet.PNG)
+![image](https://github.com/flying-zfy/Lung_animal_model/blob/master/image/5_class_predict_result_noimgnet.PNG)
 
 #### 五分类模型的参数设置(使用imagenet_processing()预处理)
 
-![image](http://192.168.3.126/Flying_zfy/Lung_Animal_model/raw/master/image/5_class_train_data2.PNG)
+![image](https://github.com/flying-zfy/Lung_animal_model/blob/master/image/5_class_train_data2.PNG)
 
 #### 五分类模型的训练精度曲线和混淆矩阵(使用imagenet_processing()预处理)
 
-![image](http://192.168.3.126/Flying_zfy/Lung_Animal_model/raw/master/image/5_class_predict_result_imgnet.PNG)
+![image](https://github.com/flying-zfy/Lung_animal_model/blob/master/image/5_class_predict_result_imgnet.PNG)
